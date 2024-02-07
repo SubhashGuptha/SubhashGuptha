@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SubhashGuptha
+- 👀 I’m interested in AI-ML, Cybersecurity, App Designing
+- 🌱 I’m currently learning AI
